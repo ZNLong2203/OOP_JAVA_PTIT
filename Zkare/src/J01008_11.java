@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pkg11_j01008;
+
 import java.util.*;
 /**
  *
  * @author nlong
  */
-public class Main {
+public class J01008_11 {
 
     /**
      * @param args the command line arguments

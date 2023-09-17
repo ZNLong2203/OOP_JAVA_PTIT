@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pkg14_j01011;
+
 import java.util.*;
 /**
  *
  * @author MY PC
  */
-public class Main {
+public class J01011_14 {
 
     public static long gcd(long a, long b) {
         while(a!=0) {

@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pkg17_j01014;
+
 import java.util.*;
 
-public class Main {
+public class J01014_17 {
     public static boolean KtNgto(long n){
         if(n == 2 || n == 3) return true;
         if(n < 2 || n % 2 == 0 || n % 3 == 0) return false;

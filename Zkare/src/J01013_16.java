@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pkg16_j01013;
+
 import java.util.*;
 /**
  *
  * @author MY PC
  */
-public class Main {
+public class J01013_16 {
     
     static int a[] = new int[2000001];
     
